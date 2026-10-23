@@ -1,7 +1,8 @@
 # Hi, I'm Nadezhda Dominguez Salinas! 
 ### (Tip on pronouncing my name: Nadezhda -> Nuh-Des-Duh)
 
-**Software Engineer | B.A. Computer Science, Mathematics, Macalester College (Expected May 2027) | Saint Paul, MN**
+**B.A. Computer Science, Mathematics at Macalester College (Expected May 2027) | Saint Paul, MN**
+**A.A. General Studies at University of Toledo (May 2023) | Toledo, OH**
 
 I build software where algorithms meet real-world problems, including robot path planning,
 location-aware web applications, and large-scale network analysis.
@@ -24,13 +25,14 @@ Features include an interactive layered map, privacy-preserving census-tract vis
 | [F1 Pit Stop Visualizer](https://github.com/Nadizdom34/REPO-NAME) | Interactive tool that pulls race data from an API to visualize pit stop strategy | Java, REST API |
 
 ### Research
-Research Assistant, University of Minnesota & Macalester College. Built Python pipelines for
-dimensionality reduction (UMAP, PCA, t-SNE) across 155 fields, ran spaCy tokenization on an HPC
+Research Assistant, University of Minnesota & Macalester College. 
+
+Built Python pipelines for dimensionality reduction (UMAP, PCA, t-SNE) across 155 fields, ran spaCy tokenization on an HPC
 cluster with Slurm, and applied persistent homology in my honors thesis. 
 
 ### Technical Skills
-**Languages:** Python, Java, Swift, C, R
-**Frameworks & Libraries:** React, SwiftUI, Firebase, NumPy, Pandas, NetworkX, OpenCV, Shapely
+**Languages:** Python, Java, Swift, C, R\
+**Frameworks & Libraries:** React, SwiftUI, Firebase, NumPy, Pandas, NetworkX, OpenCV, Shapely\
 **Tools:** Git/GitHub, Docker, Xcode, Linux, Slurm (HPC)
 
 ### Recognition
