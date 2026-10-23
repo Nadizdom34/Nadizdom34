@@ -1,7 +1,7 @@
 # Hi, I'm Nadezhda Dominguez Salinas! 
 ### (Tip on pronouncing my name: Nadezhda -> Nuh-Des-Duh)
 
-**B.A. Computer Science, Mathematics at Macalester College (Expected May 2027) | Saint Paul, MN**
+**B.A. Computer Science, Mathematics at Macalester College (Expected May 2027) | Saint Paul, MN**\
 **A.A. General Studies at University of Toledo (May 2023) | Toledo, OH**
 
 I build software where algorithms meet real-world problems, including robot path planning,
