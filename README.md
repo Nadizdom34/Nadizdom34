@@ -1,11 +1,12 @@
-# Hi, I'm Nadezhda Dominguez Salinas! (Tip on pronouncing my name: Nadezhda -> Nuh-Des-Duh)
+# Hi, I'm Nadezhda Dominguez Salinas! 
+### (Tip on pronouncing my name: Nadezhda -> Nuh-Des-Duh)
 
 **Software Engineer | B.A. Computer Science, Mathematics, Macalester College (Expected May 2027) | Saint Paul, MN**
 
 I build software where algorithms meet real-world problems, including robot path planning,
 location-aware web applications, and large-scale network analysis.
 
-**Seeking full-time Software Engineer roles beginning after Mid-May 2027, particularly in Ann Arbor, MI, Southeast Michigan, and the Twin Cities, MN.**
+**Seeking full-time Software Engineer roles beginning after Mid-May 2027, particularly in Ann Arbor, MI, Southeast Michigan, or the Twin Cities, MN.**
 
 ---
 
@@ -34,7 +35,7 @@ cluster with Slurm, and applied persistent homology in my honors thesis.
 
 ### Recognition
 - Best Overall Project at Macalester College, DataFest Competition (2025 and 2026)
-- Teaching Assistant for 120+ students in Object-Oriented Programming, Computational Linear Algebra, & Computational Biology
+- Teaching Assistant for 120+ students over the past 4 semesters in Object-Oriented Programming, Computational Linear Algebra, & Computational Biology
 - QuestBridge Scholar
 
 ### Contact
