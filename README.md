@@ -48,7 +48,7 @@ I'm particularly interested in software engineering, data science, and computati
 
 ## Beyond Coding
 
-- Two-time Best Overall Project winner at Macalester DataFest (2025 and 2026)
+- Two-time Best in Show Project winner at Macalester DataFest (2025 and 2026)
 - QuestBridge Scholar
 - Co-founder and Vice President of Macalester's Figure Skating Club
 - Volunteered as English instructor supporting adult learners for 8 semesters
