@@ -18,7 +18,7 @@ I'm particularly interested in software engineering, data science, and computati
 
 | Project | Description | Technologies |
 |---|---|---|
-| **[Robot Path Planning](https://github.com/kboughto/CompGeom_FinalProject)** | Developed a program that identifies obstacles in classroom images and calculates obstacle-free paths using constrained Delaunay triangulation and Dijkstra's algorithm. | Python, OpenCV, Shapely, NetworkX |
+| **[Robot Path Planning](https://github.com/Nadizdom34/robot-path-planning-cdt)** | Developed a program that identifies obstacles in classroom images and calculates obstacle-free paths using constrained Delaunay triangulation and Dijkstra's algorithm. | Python, OpenCV, Shapely, NetworkX |
 | **[MomoFit](https://github.com/Nadizdom34/momodev)** | Collaborated with a team of four developers to build a social fitness iOS application where users can connect with friends and share gym statuses. | Swift, SwiftUI, Firebase |
 | **[Cosmetic Ingredient Network Analysis](https://github.com/Nadizdom34/cosmetic-ingredient-network-analysis)** | Analyzed ingredient relationships across more than 11,000 cosmetic products using network analysis and graph algorithms. | Python, NetworkX |
 | **F1 Pit Stop Visualizer** | Developed an interactive tool to explore Formula 1 pit stop strategies using race data. | Java, REST APIs |
