@@ -1,44 +1,61 @@
-# Hi, I'm Nadezhda Dominguez Salinas! 
-### (Tip on pronouncing my name: Nadezhda -> Nuh-Des-Duh)
+# Hi, I'm Nadezhda!
 
-**B.A. Computer Science, Mathematics at Macalester College (Expected May 2027) | Saint Paul, MN**\
-**A.A. General Studies at University of Toledo (May 2023) | Toledo, OH**
+**Name pronunciation:** Nuh-Des-Duh
 
-I build software where algorithms meet real-world problems, including robot path planning,
-location-aware web applications, and large-scale network analysis.
+I'm a senior at **Macalester College**, studying **Computer Science and Mathematics**, graduating in May 2027.
 
-**Seeking full-time Software Engineer roles beginning after Mid-May 2027, particularly in Ann Arbor, MI, Southeast Michigan, or the Twin Cities, MN.**
+I enjoy building software that brings together algorithms, mathematics, and real-world problems. My experience ranges from analyzing large scientific datasets to developing mobile applications and exploring computational geometry.
 
----
+I'm particularly interested in software engineering, data science, and computational research, especially projects where technology can make a meaningful difference.
 
-### Current Work
-**SankofaPOWER:** a location-aware platform for sharing community resources, built with React and Docker.
-Features include an interactive layered map, privacy-preserving census-tract visibility, and reputation voting for communities in Minneapolis.
+## What I'm Currently Working On
 
-### Featured Projects
+- **Undergraduate Honors Thesis:** Studying how scientific knowledge evolves across 155 academic fields using Python, network analysis, and computational topology.
+- **SankofaPOWER:** Developing a community resource-sharing platform in collaboration with the University of Minnesota and Project Sweetie Pie. Working with React and Docker to build features that help people find and share local resources.
+- **Computer Science Teaching:** Supporting students in programming, algorithms, and computational problem-solving as a teaching assistant at Macalester College.
 
-| Project | Description | Stack |
+## Featured Projects
+
+| Project | Description | Technologies |
 |---|---|---|
-| [Robot Path Planning](https://github.com/Nadizdom34/REPO-NAME) | Converts a classroom photo into an obstacle-free shortest route using a constrained Delaunay triangulation and Dijkstra's algorithm | Python, OpenCV, Shapely, NetworkX |
-| [MomoFit](https://github.com/Nadizdom34/REPO-NAME) | Social fitness iOS app with real-time friend status, expiring invite codes, and push notifications; built with a team of 4 | Swift, SwiftUI, Firebase |
-| [Cosmetic Ingredient Networks](https://github.com/Nadizdom34/REPO-NAME) | Graph analysis of 11,000+ products, including a 4,119-node ingredient co-occurrence network, centrality rankings, and community detection that identified banned compounds | Python, NetworkX |
-| [F1 Pit Stop Visualizer](https://github.com/Nadizdom34/REPO-NAME) | Interactive tool that pulls race data from an API to visualize pit stop strategy | Java, REST API |
+| **Robot Path Planning** | Developed a program that identifies obstacles in classroom images and calculates obstacle-free paths using constrained Delaunay triangulation and Dijkstra's algorithm. | Python, OpenCV, Shapely, NetworkX |
+| **[MomoFit](https://github.com/Nadizdom34/momodev)** | Collaborated with a team of four developers to build a social fitness iOS application where users can connect with friends and share gym statuses. | Swift, SwiftUI, Firebase |
+| **Cosmetic Ingredient Network Analysis** | Analyzed ingredient relationships across more than 11,000 cosmetic products using network analysis and graph algorithms. | Python, NetworkX |
+| **F1 Pit Stop Visualizer** | Developed an interactive tool to explore Formula 1 pit stop strategies using race data. | Java, REST APIs |
 
-### Research
-Research Assistant, University of Minnesota & Macalester College. 
+## Technical Skills
 
-Built Python pipelines for dimensionality reduction (UMAP, PCA, t-SNE) across 155 fields, ran spaCy tokenization on an HPC
-cluster with Slurm, and applied persistent homology in my honors thesis. 
+**Programming Languages:** Python, Java, Swift, C, R
 
-### Technical Skills
-**Languages:** Python, Java, Swift, C, R\
-**Frameworks & Libraries:** React, SwiftUI, Firebase, NumPy, Pandas, NetworkX, OpenCV, Shapely\
-**Tools:** Git/GitHub, Docker, Xcode, Linux, Slurm (HPC)
+**Libraries & Frameworks:** React, SwiftUI, Firebase, Pandas, NumPy, NetworkX, OpenCV, Shapely
 
-### Recognition
-- Best Overall Project at Macalester College, DataFest Competition (2025 and 2026)
-- Teaching Assistant for 120+ students over the past 4 semesters in Object-Oriented Programming, Computational Linear Algebra, & Computational Biology
+**Developer Tools:** Git, Docker, Linux, Xcode, Jupyter, Slurm HPC
+
+## Research and Experience
+
+**Research Assistant | University of Minnesota & Macalester College**
+- Developed Python data analysis pipelines to study scientific knowledge networks across 155 academic fields.
+- Applied dimensionality reduction, network analysis, and computational topology to investigate patterns in scientific research.
+- Collaborated with a four-person research team to complete a research report and poster within nine weeks and presented findings at academic conferences.
+
+**Computer Science Teaching Assistant | Macalester College**
+- Supported more than 120 students across computer science courses.
+- Helped students understand programming concepts, debug code, and develop problem-solving skills.
+
+**Full-Stack Developer | University of Minnesota & Project Sweetie Pie**
+- Contributing to SankofaPOWER, a community resource-sharing platform.
+- Developing interactive features using React and Docker as part of a collaborative development team.
+
+## Beyond Coding
+
+- Two-time Best Overall Project winner at Macalester DataFest (2025 and 2026)
 - QuestBridge Scholar
+- Co-founder and Vice President of Macalester's Figure Skating Club
+- Volunteered as English instructor supporting adult learners for 8 semesters
 
-### Contact
-[LinkedIn](linkedin.com/in/nadezhda-dominguez-salinas-176109314) | ndomingu@macalester.edu
+## Let's Connect
+
+- **LinkedIn:** [Nadezhda Dominguez Salinas](https://www.linkedin.com/in/nadezhda-dominguez-salinas-176109314)
+- **Email:** ndomingu@macalester.edu
+
+I'm interested in **Spring 2027 co-op opportunities in data science and engineering**, as well as **full-time software engineering roles beginning May 2027**.
