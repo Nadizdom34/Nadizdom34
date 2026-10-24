@@ -1,4 +1,4 @@
-# Hi, I'm Nadezhda!
+# Hi, I'm Nadezhda Dominguez Salinas!
 
 **Name pronunciation:** Nuh-Des-Duh
 
